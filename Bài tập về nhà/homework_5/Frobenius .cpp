@@ -1,3 +1,5 @@
+// Kiểm tra ma trận Frobenius 
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -46,28 +48,3 @@ int main(){
     return 0;
 }
 
-// int ktra(double a[][MAX], int n)
-// {
-//     int dem=0;
-//     for(int i=0;i<n;i++)
-//         if(a[i][i]!=1)
-//         return 0;
-//     for(int i=0;i<n-1;i++)
-//         for(int j=i+1;j<n;j++)
-    // {
-    //     if(a[j][i]!=0)
-    //     {
-    //         dem++;
-    //         if(dem>1)
-    //             return 0;
-    //         break;
-    //     }
-    // }
-//     for(int i=0;i<n;i++){
-//         for(int j=i-1;j>=0;j--)
-//         if(a[j][i]!=0)
-//         return 0;
-//     }
-//     return 1;
-
-// }
