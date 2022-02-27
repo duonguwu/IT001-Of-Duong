@@ -1,3 +1,4 @@
+// Kiểm tra ma trận chéo
 #include <iostream>
 #include <iomanip>
 using namespace std;
