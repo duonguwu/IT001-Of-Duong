@@ -1,3 +1,5 @@
+// Kiểm tra ma trận trên có phải là ma trận đơn vị không?
+
 #include <iostream>
 #include <iomanip>
 // using namespace std;
