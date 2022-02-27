@@ -1,3 +1,9 @@
+// INPUT:
+// - Một chuỗi thời gian dưới dạng hh:mm:ss PM/AM
+// - Số giây t cần cộng thêm
+// OUTPUT:
+// - Thời gian sau t giây dưới dạng hh:mm:ss PM/AM
+
 #include <iostream>
 #include <string>
 #include <iomanip>
