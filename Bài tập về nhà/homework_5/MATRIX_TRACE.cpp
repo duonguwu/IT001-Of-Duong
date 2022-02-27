@@ -1,3 +1,5 @@
+// Tính tổng trên đường chéo chính
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
