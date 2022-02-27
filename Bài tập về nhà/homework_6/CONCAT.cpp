@@ -1,3 +1,6 @@
+// Giả sử 2 biến s1 và s2 chỉ lưu được tối đa 254 ký tự. Viết chương trình nhập 2 chuỗi ký tự s1 và s2. 
+// Viết hàm nối chuỗi s2 vào sau chuỗi s1.
+
 #include <iostream>
 #include <string>
 using namespace std;
